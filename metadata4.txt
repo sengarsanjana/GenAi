@@ -1,0 +1,132 @@
+{
+  "video_metadata": [
+    {
+      "id": 1,
+      "title": "Overview of the SIE Platform",
+      "description": "Are you looking for an overview of the SIE platform? This video covers everything about the SIE platform, including its components and functionalities. Whether you're asking What is SIE? or want to know about the overall Overview of SIE, this video has all the details.",
+      "keywords": ["Overview of SIE", "What is SIE", "Explain SIE", "SIE Platform basics", "SIE introduction", "SIE components", "SIE functionalities", "SIE system overview"],
+      "video_url": "https://youtu.be/SGGyOdNgBD4",
+      "category": "Introduction",
+      "difficulty_level": "Beginner",
+      "transcript": ""
+    },
+    {
+      "id": 2,
+      "title": "Custom Analysis on Insights Studio",
+      "description": "Have you been wondering how to do custom analysis on Insights Studio? This video provides step-by-step instructions for performing custom analysis on Insights Studio, which is the custom analytics powerhouse within the PSI Suite platform.",
+      "keywords": ["Insights Studio", "Custom Analysis", "Custom Analysis on SIE", "How to do custom analysis on SIE", "How to do custom analysis on Insights Studio", "SIE analytics", "PSI Suite analytics", "Insights Studio tutorial", "Data analysis in SIE", "Healthcare analytics", "Custom reports"],
+      "video_url": "https://youtu.be/PK1gC0mT6p0",
+      "category": "Advanced Features",
+      "difficulty_level": "Intermediate",
+      "search_aliases": ["analytics", "insights", "custom reports", "filtering", "metrics", "data analysis"],
+      "transcript": {
+        "timestamped": [
+          {"time": "0:00", "text": "In today's data driven healthcare environment, standard reports can only take you so far."},
+          {"time": "0:06", "text": "When you need answers to specific questions, you need a tool that puts analytical power directly in your hands."},
+          {"time": "0:12", "text": "Welcome to Insight Studio, the custom analytics powerhouse within the PSI Suite platform that transforms your questions into answers."},
+          {"time": "0:19", "text": "Insight Studio is where healthcare analytics becomes truly personalized."},
+          {"time": "0:23", "text": "This powerful tool allows you to create custom reports tailored to your specific requirements, giving you the freedom to explore data your way."},
+          {"time": "0:32", "text": "Click on Inside Studio and then on Custom Analysis to begin your analysis."},
+          {"time": "0:37", "text": "Your analysis begins with selecting the metrics that matter to you."},
+          {"time": "0:40", "text": "Inside Studio offers 3 core measurement categories."},
+          {"time": "0:43", "text": "Start with Spend Metrics to calculate financial measurements based on your claims data."},
+          {"time": "0:48", "text": "Track membership metrics to understand enrollment and eligibility patterns, or analyze utilization metrics to evaluate service usage trends."},
+          {"time": "0:56", "text": "Next, define your target population using Inside Studios robust filtering capabilities."},
+          {"time": "1:02", "text": "Filter by organizational attributes like business unit or division, narrow by demographics such as age or gender."},
+          {"time": "1:08", "text": "Focus on specific diagnosis procedures or medications."},
+          {"time": "1:12", "text": "With over 7 major filter categories and dozens of subcategories, you can precisely define your population of interest, whether that's members with a specific condition, those utilizing certain providers, or any other segment you need to analyze."},
+          {"time": "1:26", "text": "Select from pre built periods or define a custom date range."},
+          {"time": "1:29", "text": "Choose whether to analyze by pay date, incur date or incur date with runoff for trend analysis."},
+          {"time": "1:35", "text": "Add comparison periods to view results across 2 distinct time frames."},
+          {"time": "1:40", "text": "This side by side comparison makes identifying patterns and changes remarkably straightforward."},
+          {"time": "1:45", "text": "With your parameter set, generating your custom report is just a click away."},
+          {"time": "1:49", "text": "With unmatched flexibility, precision filters, and comprehensive granularity options, Insight Studio transforms complex healthcare data into clear, actionable intelligence."},
+          {"time": "2:00", "text": "Insight Studio presents your results in a clear, tabular format, designed for easy comparison and analysis."},
+          {"time": "2:06", "text": "Insight Studio offers unparalleled flexibility with over 40 granularity options across 8 categories."},
+          {"time": "2:13", "text": "Group by time periods, year, quarter, or month."},
+          {"time": "2:16", "text": "Segment by organizational dimensions like business unit or work location."},
+          {"time": "2:20", "text": "Breakdown by demographics, such as age or gender, analyzed by coverage details, service providers, diagnosis codes, procedure types, or pharmaceutical classifications."},
+          {"time": "2:30", "text": "When it's time to share your insights, Insight Studio makes it simple."},
+          {"time": "2:35", "text": "Export your complete report or selected sections in multiple formats."},
+          {"time": "2:39", "text": "Discover the power of personalized analytics."},
+          {"time": "2:41", "text": "Insight Studio, Thank you for watching."}
+        ],
+        "full_text": "In today's data driven healthcare environment, standard reports can only take you so far. When you need answers to specific questions, you need a tool that puts analytical power directly in your hands. Welcome to Insight Studio, the custom analytics powerhouse within the PSI Suite platform that transforms your questions into answers. Insight Studio is where healthcare analytics becomes truly personalized. This powerful tool allows you to create custom reports tailored to your specific requirements, giving you the freedom to explore data your way. Click on Inside Studio and then on Custom Analysis to begin your analysis. Your analysis begins with selecting the metrics that matter to you. Inside Studio offers 3 core measurement categories. Start with Spend Metrics to calculate financial measurements based on your claims data. Track membership metrics to understand enrollment and eligibility patterns, or analyze utilization metrics to evaluate service usage trends. Next, define your target population using Inside Studios robust filtering capabilities. Filter by organizational attributes like business unit or division, narrow by demographics such as age or gender. Focus on specific diagnosis procedures or medications. With over 7 major filter categories and dozens of subcategories, you can precisely define your population of interest, whether that's members with a specific condition, those utilizing certain providers, or any other segment you need to analyze. Select from pre built periods or define a custom date range. Choose whether to analyze by pay date, incur date or incur date with runoff for trend analysis. Add comparison periods to view results across 2 distinct time frames. This side by side comparison makes identifying patterns and changes remarkably straightforward. With your parameter set, generating your custom report is just a click away. With unmatched flexibility, precision filters, and comprehensive granularity options, Insight Studio transforms complex healthcare data into clear, actionable intelligence. Insight Studio presents your results in a clear, tabular format, designed for easy comparison and analysis. Insight Studio offers unparalleled flexibility with over 40 granularity options across 8 categories. Group by time periods, year, quarter, or month. Segment by organizational dimensions like business unit or work location. Breakdown by demographics, such as age or gender, analyzed by coverage details, service providers, diagnosis codes, procedure types, or pharmaceutical classifications. When it's time to share your insights, Insight Studio makes it simple. Export your complete report or selected sections in multiple formats. Discover the power of personalized analytics. Insight Studio, Thank you for watching."
+      },
+      "key_features_demonstrated": ["Custom metrics selection", "Population filtering", "Date range configuration", "Result granularity options", "Export capabilities", "Healthcare data analysis"]
+    },
+    {
+      "id": 3,
+      "title": "SIE Search Feature",
+      "description": "Are you looking for a tool that gives quick access to all the SIE contents? This video explains the centralized SIE search feature, which allows you to quickly access everything across dashboards, reports, and data tables. If you're asking about the Centralized Search tool or need to find Quick access to all the SIE Contents, this video will show you how.",
+      "keywords": ["SIE search feature", "Centralized Search tool", "Quick access to all the SIE Contents", "Platform navigation", "Finding dashboards", "Locating reports", "Search functionality", "SIE search bar", "How to search in SIE", "Finding content in SIE", "Search results in SIE", "Medical search in SIE"],
+      "video_url": "https://youtu.be/FDWHmYvfta0",
+      "category": "Navigation Tools",
+      "difficulty_level": "Beginner", 
+      "search_aliases": ["search", "find", "locate", "discover", "search bar", "searching"],
+      "transcript": {
+        "timestamped": [
+          {"time": "0:01", "text": "Welcome to this Quick guide on using the powerful search functionality in the SIE platform."},
+          {"time": "0:06", "text": "Let me show you how this intuitive search feature can help you quickly find exactly what you need across the entire platform."},
+          {"time": "0:13", "text": "Here at the top of the interface, you'll find the SIE Suite search bar."},
+          {"time": "0:16", "text": "This centralized search tool gives you immediate access to all content across dashboards, reports, and data tables."},
+          {"time": "0:24", "text": "Let's start with a basic search."},
+          {"time": "0:26", "text": "I'll type in Medical to show you how it works."},
+          {"time": "0:28", "text": "As you can see, the search instantly returns results from multiple areas of the platform."},
+          {"time": "0:33", "text": "Notice how the results are organized by category, dashboards, reports, metrics, and even specific data elements."},
+          {"time": "0:40", "text": "The search results are prioritized by relevance, with the most useful information appearing at the top."},
+          {"time": "0:45", "text": "You can easily navigate through different result categories using these tabs."},
+          {"time": "0:49", "text": "Each result provides a direct link to that specific dashboard, report or data element, saving you valuable time navigating through menus."},
+          {"time": "0:57", "text": "The SIE Suite search functionality puts the entire platform at your fingertips."},
+          {"time": "1:02", "text": "Whether you're looking for specific diagnosis procedures, medications, or analytics, the search bar is your quickest path to the insights you need."},
+          {"time": "1:10", "text": "Remember, the more specific your search terms, the more precise your results will be."},
+          {"time": "1:15", "text": "Thank you for watching."}
+        ],
+        "full_text": "Welcome to this Quick guide on using the powerful search functionality in the SIE platform. Let me show you how this intuitive search feature can help you quickly find exactly what you need across the entire platform. Here at the top of the interface, you'll find the SIE Suite search bar. This centralized search tool gives you immediate access to all content across dashboards, reports, and data tables. Let's start with a basic search. I'll type in Medical to show you how it works. As you can see, the search instantly returns results from multiple areas of the platform. Notice how the results are organized by category, dashboards, reports, metrics, and even specific data elements. The search results are prioritized by relevance, with the most useful information appearing at the top. You can easily navigate through different result categories using these tabs. Each result provides a direct link to that specific dashboard, report or data element, saving you valuable time navigating through menus. The SIE Suite search functionality puts the entire platform at your fingertips. Whether you're looking for specific diagnosis procedures, medications, or analytics, the search bar is your quickest path to the insights you need. Remember, the more specific your search terms, the more precise your results will be. Thank you for watching."
+      },
+      "key_features_demonstrated": ["Search bar location", "Results organization", "Category filtering", "Direct linking", "Medical terminology search"]
+    },
+    {
+      "id": 4,
+      "title": "Filtering Monthly Trends Dashboard",
+      "description": "Need to customize your trend views to focus on specific data? This video demonstrates how to apply filters to monthly trend dashboards in the SIE platform to extract precisely the insights you need, helping you focus on specific aspects of healthcare trends.",
+      "keywords": ["Monthly trends dashboard", "Dashboard filters", "Dashboard filtering", "Medical trend analysis", "Healthcare dashboard customization", "Data filtering", "Trend visualization", "Medical utilization trends", "Dashboard navigation", "Healthcare data filtering", "Demographic filters"],
+      "video_url": "https://youtu.be/Wgn-H2mTdBs
+",
+      "category": "Data Visualization",
+      "difficulty_level": "Beginner",
+      "search_aliases": ["trends", "filters", "dashboards", "medical data", "visualization", "demographic filters", "monthly data"],
+      "transcript": {
+        "timestamped": [
+          {"time": "0:00", "text": "Welcome to this Quick guide on applying filters to monthly trend dashboards and TRA platform."},
+          {"time": "0:05", "text": "Today I'll show you how to customize your trend views to extract exactly the insights you need."},
+          {"time": "0:11", "text": "To view the monthly dashboard for medical data, navigate to the standard report section."},
+          {"time": "0:16", "text": "Here you'll find 3 main dashboard categories, Medical, Enrollment and Pharmacy."},
+          {"time": "0:21", "text": "For our purposes today, let's select the monthly trend option under the Medical category."},
+          {"time": "0:27", "text": "When you first access a monthly trend dashboard for medical utilization, you'll see comprehensive trend data presented in various charts and visualizations."},
+          {"time": "0:35", "text": "While this overview is valuable, applying filters can help you focus on specific aspects of these trends."},
+          {"time": "0:42", "text": "Notice that you have options to view the dashboard based on either allowed amount or paid amount."},
+          {"time": "0:46", "text": "You can also switch between service date or payday views depending on your analysis needs."},
+          {"time": "0:57", "text": "At the top of the dashboard, you'll see information indicating the date through which the dashboard has been updated, ensuring you know how current your data is."},
+          {"time": "1:05", "text": "Throughout the dashboard, look for the 5 buttons."},
+          {"time": "1:08", "text": "These information icons are extremely helpful."},
+          {"time": "1:11", "text": "Clicking on them will provide you with a quick summary of what to expect from the dashboard overall or what a specific chart is representing."},
+          {"time": "1:18", "text": "These contextual help features ensure you always understand the data you're viewing."},
+          {"time": "1:23", "text": "At the top right corner of the dashboard, you'll notice a funnel shaped filter icon."},
+          {"time": "1:28", "text": "Clicking on it opens up a range of powerful filtering options."},
+          {"time": "1:31", "text": "You can refine the data by demographics like gender, including male, female, or unknown, and relationship types such as employee, spouse, or dependent."},
+          {"time": "1:41", "text": "You can also apply diagnosis group filters to dig deeper into specific health conditions."},
+          {"time": "1:46", "text": "These filters help you customize and focus the dashboard view based on exactly what you're looking to analyze."},
+          {"time": "1:52", "text": "Thank you for watching."}
+        ],
+        "full_text": "Welcome to this Quick guide on applying filters to monthly trend dashboards and TRA platform. Today I'll show you how to customize your trend views to extract exactly the insights you need. To view the monthly dashboard for medical data, navigate to the standard report section. Here you'll find 3 main dashboard categories, Medical, Enrollment and Pharmacy. For our purposes today, let's select the monthly trend option under the Medical category. When you first access a monthly trend dashboard for medical utilization, you'll see comprehensive trend data presented in various charts and visualizations. While this overview is valuable, applying filters can help you focus on specific aspects of these trends. Notice that you have options to view the dashboard based on either allowed amount or paid amount. You can also switch between service date or payday views depending on your analysis needs. At the top of the dashboard, you'll see information indicating the date through which the dashboard has been updated, ensuring you know how current your data is. Throughout the dashboard, look for the 5 buttons. These information icons are extremely helpful. Clicking on them will provide you with a quick summary of what to expect from the dashboard overall or what a specific chart is representing. These contextual help features ensure you always understand the data you're viewing. At the top right corner of the dashboard, you'll notice a funnel shaped filter icon. Clicking on it opens up a range of powerful filtering options. You can refine the data by demographics like gender, including male, female, or unknown, and relationship types such as employee, spouse, or dependent. You can also apply diagnosis group filters to dig deeper into specific health conditions. These filters help you customize and focus the dashboard view based on exactly what you're looking to analyze. Thank you for watching."
+      },
+      "key_features_demonstrated": ["Dashboard navigation", "Filter application", "Data view options", "Information icons", "Demographic filtering", "Diagnosis filtering", "Data currency indicators"]
+    }
+  ],
+  "metadata": {
+    "version": "1.2",
+    "last_updated": "2025-04-11",
+    "total_videos": 4
+  }
+}
